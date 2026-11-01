@@ -5,3 +5,5 @@ Test repository for dsh-superagent (prototype). Issues mentioning @DSHFatFish ar
 hello from superagent
 
 auto-merge test
+
+final check
